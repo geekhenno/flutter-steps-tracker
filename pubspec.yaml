@@ -15,12 +15,22 @@ dependencies:
     sdk: flutter
   # UI
   cupertino_icons: ^1.0.5
+  overlay_support: ^2.0.1
+  flutter_svg: ^1.1.0
+  percent_indicator: ^4.2.2
+  fl_chart: ^0.51.0
+  animated_bottom_navigation_bar: ^0.3.3
+  cached_network_image: ^3.2.1
+  shimmer: ^2.0.0
+  extended_image: ^6.2.1
 
   # Routing
   auto_route: ^4.0.1
 
   # functions
   timeago: ^3.2.2
+  dartz: ^0.10.1
+  pedometer: ^3.0.0
 
   # Localization
   easy_localization: ^3.0.1
@@ -31,7 +41,7 @@ dependencies:
   # Firebase
   firebase_core: ^1.17.1
   firebase_auth: ^3.3.19
-  firebase_storage: ^10.2.17
+  cloud_firestore: ^3.1.17
   firebase_messaging: ^11.4.1
 
 
@@ -71,6 +81,10 @@ flutter:
     - assets/images/
     - assets/icons/
 
+  fonts:
+    - family: Jannat
+      fonts:
+        - asset: assets/fonts/jannat_regular.ttf
 
 
 
