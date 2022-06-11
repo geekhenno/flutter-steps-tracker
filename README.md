@@ -12,19 +12,10 @@ an application to track footsteps of users, and build a reward system such that 
 - Setup localization with (easy localization package)
 - Firestore DB
 
-
-[url=https://postimg.cc/kBZtXdGr][img]https://i.postimg.cc/kBZtXdGr/IMG-1262.png[/img][/url]
-
-[url=https://postimg.cc/HJ1cX4bB][img]https://i.postimg.cc/HJ1cX4bB/IMG-1263.png[/img][/url]
-
-[url=https://postimg.cc/143gGzNh][img]https://i.postimg.cc/143gGzNh/IMG-1264.png[/img][/url]
-
-[url=https://postimg.cc/LnrnFBQ2][img]https://i.postimg.cc/LnrnFBQ2/IMG-1265.png[/img][/url]
-
-[url=https://postimg.cc/7bt5mygC][img]https://i.postimg.cc/7bt5mygC/IMG-1266.png[/img][/url]
-
-[url=https://postimg.cc/TLRKHd7b][img]https://i.postimg.cc/TLRKHd7b/IMG-1267.png[/img][/url]
-
-[url=https://postimg.cc/8FdFHJHD][img]https://i.postimg.cc/8FdFHJHD/IMG-1268.png[/img][/url]
-
-
+![IMG_1267](https://user-images.githubusercontent.com/25689733/173203425-bec2090a-2b0a-46fb-954b-919433b59d57.PNG)
+![IMG_1268](https://user-images.githubusercontent.com/25689733/173203427-39a91abd-c47a-4cf2-914f-fb34e2b80878.PNG)
+![IMG_1262](https://user-images.githubusercontent.com/25689733/173203431-85ead903-cf93-4928-8aeb-1741c8d16b38.PNG)
+![IMG_1263](https://user-images.githubusercontent.com/25689733/173203432-29a61137-f29f-4756-8b6e-51421bca6036.PNG)
+![IMG_1264](https://user-images.githubusercontent.com/25689733/173203436-d37c48d6-aa03-41ff-aee9-b7a07e3f6b8f.PNG)
+![IMG_1265](https://user-images.githubusercontent.com/25689733/173203439-128bb6a4-7602-42d5-aaa2-eae88d71d65c.PNG)
+![IMG_1266](https://user-images.githubusercontent.com/25689733/173203441-3f8a1069-798e-4736-9f65-9507b43aad48.PNG)
